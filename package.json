@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-4-color-swatches",
+  "version": "1.0.0",
+  "description": "Tool to generate color swatches for Adobe AI based on Tailwind 4 Default Colors",
+  "scripts": {
+    "generate": "node generate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Tailwind", "colors", "swatches"],
+  "author": "Peter Keogan",
+  "license": "MIT",
+  "dependencies": {
+    "culori": "^4.0.1"
+  }
+}
